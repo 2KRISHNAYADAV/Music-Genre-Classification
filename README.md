@@ -94,7 +94,7 @@ CREATE TABLE contacts (
 1.Fork this repository.
 
  ```console
-git clone https://github.com/MelihGulum/Music-Genre-Classification.git
+git clone https://github.com/2KRISHNAYADAV/Music-Genre-Classification.git
 ```
 
 2.Load the dependencies of the project
