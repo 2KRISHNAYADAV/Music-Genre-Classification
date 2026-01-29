@@ -22,6 +22,9 @@
   </ol>
 </details>
 
+<img width="1091" height="559" alt="Screenshot 2026-01-30 005352" src="https://github.com/user-attachments/assets/7e7fac27-713d-408e-9a3d-8dfb5744ba86" />
+
+
 <h2 id="dataset"> :pencil: About The Project</h2>
 <p align="justify">This project aims to classify music genres. Music Genre Classification is an Audio Signal Processing project. <strong>Signal Processing</strong> is one of the sub-fields of Deep Learning apart from <em>Image Processing</em> and <em>Natural Language Processing</em>. The GTZAN dataset consists of "<strong>wav</strong>" audio files. The Librosa library was used to extract the features of these audio files (more on Preprocess section). Different architectures have been created to classification (NN, LSTM, CNN...).</p><br>
 
